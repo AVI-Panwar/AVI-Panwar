@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Avi Panwar</h1>
 <h3 align="center">A passionate frontend Web developer from India.</h3>
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
 
 # 💫 About Me:
 I’m currently working on My skills<br>I’m looking for help with backend (Node.js)<br>I’m looking to collaborate on React based projects.<br>How to reach me:  avipanwar6565@gmail.com<br>Pronouns: She<br> Fun fact: I know it's crazy, but I love to talk a lot !!😁<br>
