@@ -11,7 +11,7 @@ I’m currently working on My skills<br>I’m looking for help with backend (Nod
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/avi-panwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="avi-panwar" height="30" width="40" /></a>
-<a href="https://instagram.com/i__panwar__1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i__panwar__1" height="30" width="40" /></a>
+
 <a href="https://www.hackerrank.com/avipanwar6565" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@avipanwar6565" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/avi__001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="avi__001" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@avi.panwar.cs.2019" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="avi panwar" height="30" width="40" /></a>
